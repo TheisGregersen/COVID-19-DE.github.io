@@ -1,6 +1,6 @@
-# COVID-19 Germany!! 
+# COVID-19 Germany!! -----
 
-This page will investigate the spread of COVID-19 in Germany.<br>
+This page will investigate the spread of COVID-19 in Germany. <br>
 The first case of the coronavirus in Germany were registered on Januray 28, 2020 in the state of Bavaria. 
 
 etc.
